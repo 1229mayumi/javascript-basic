@@ -7,6 +7,6 @@ console.log(shippingFee);
 //7章
 //7.3
 const num = 15;
-if(num>10){
-  console.log('定数numは10より大きいです');
+if (num > 10) {
+  console.log("定数numは10より大きいです");
 }
