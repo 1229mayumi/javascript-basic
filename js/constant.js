@@ -4,5 +4,9 @@ const shippingFee = 500;
 //コンソールへの出力
 console.log(shippingFee);
 
-//値の際代入(エラー)
-shippingFee = 800;
+//7章
+//7.3
+const num = 15;
+if(num>10){
+  console.log('定数numは10より大きいです');
+}
